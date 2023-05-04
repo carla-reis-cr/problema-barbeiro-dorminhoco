@@ -15,4 +15,4 @@ William Stallings (Stallings, 2012) apresenta uma versão mais complicada do pro
 9. Os barbeiros dividem o seu tempo entre cortar cabelo, receber pagamento e dormir enquanto esperam por um cliente.
 
 
-Video Explicativo(https://youtu.be/_2REZp1sbDk)
+[Video Explicativo](https://youtu.be/_2REZp1sbDk)
